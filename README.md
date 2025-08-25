@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning computer science @ Texas A&M<br>I'm working on self-teaching Full-Stack Web Development<br>I'm seeking professional work for the Summer 2025 period.
+I'm currently learning computer science @ Texas A&M<br>I'm working on self-teaching Full-Stack Web Development<br>I'm seeking professional work for the Summer 2026 period.
 
 
 ## 🌐 Socials:
